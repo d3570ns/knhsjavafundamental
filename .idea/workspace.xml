@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1269bbf5-1eb6-4ece-ae8f-9425d181bcf1" name="Changes" comment="Dalam perbaikan">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/testarray/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/cobacoba/TestChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/testharian/praktikum_1/Praktikum1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/ComitPertama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/ComitPertama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/testarray/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/testharian/testarray/TestArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -71,11 +71,11 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
     &quot;two.files.diff.last.used.folder&quot;: &quot;D:/Pelatihan/knhsjavafundamental/src/main/java/com/juaracoding/knhsjavafundamental/testharian&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Praktikum1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.juaracoding.Main" />
       <module name="knhsjavafundamental" />
@@ -89,8 +89,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Praktikum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.juaracoding.knhsjavafundamental.testharian.praktikum_1.Praktikum1" />
+      <module name="knhsjavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juaracoding.knhsjavafundamental.testharian.praktikum_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Praktikum1" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -132,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673019128257</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dalam perbaikan">
+      <created>1673611167603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673611167604</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
