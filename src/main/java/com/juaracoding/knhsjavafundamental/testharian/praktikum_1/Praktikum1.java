@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class Praktikum1 {
     public static void main(String[] args) {
 
-       char chX = 'U';
+       char chX = 'K';
        int intX = chX;
         System.out.println(intX);
         Scanner scanner = new Scanner(System.in);

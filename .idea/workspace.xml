@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1269bbf5-1eb6-4ece-ae8f-9425d181bcf1" name="Changes" comment="Dalam perbaikan">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/cobacoba/TestChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/testharian/praktikum_1/Praktikum1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/testarray/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/testharian/testarray/TestArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/testharian/praktikum_1/Praktikum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/knhsjavafundamental/testharian/praktikum_1/Praktikum1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673611167604</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Dalam perbaikan">
+      <created>1673799194996</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673799194996</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
