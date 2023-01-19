@@ -29,7 +29,6 @@ public class Praktikum2 {
         String inisial = (firstName.toUpperCase().charAt(0) + "." + lastName.toUpperCase().charAt(0));
         System.out.println("Inisial " + firstName + " " + lastName + " adalah " + inisial);
 
-
     }
 }
 
