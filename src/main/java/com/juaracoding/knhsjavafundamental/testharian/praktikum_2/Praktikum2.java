@@ -14,8 +14,7 @@ import java.util.Scanner;
 public class Praktikum2 {
     /*
 	Soal Nomor 2 Praktikum 2 Java Fundamental
-
-     */
+    */
 
     public static void main(String[] args) {
 

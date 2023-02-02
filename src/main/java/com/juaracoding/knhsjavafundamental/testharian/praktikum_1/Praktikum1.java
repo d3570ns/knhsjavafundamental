@@ -9,7 +9,6 @@ Created on 15/01/2023 22:37
 Version 1.0
 */
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Praktikum1 {
@@ -30,11 +29,9 @@ public class Praktikum1 {
             if (intX>=32 && intX<=90){
                 intTampung = intTampung + intX;
                 System.out.println("INDEX KE "+i+" HURUF "+chX+" KODE ASCII "+intX);
-
             }
         }
         System.out.println("NILAI INT TAMPUNG ADALAH :"+intTampung);
-
             }
         }
 
